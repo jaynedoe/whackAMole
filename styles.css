@@ -1,0 +1,23 @@
+h1 {
+    color: teal;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: teal;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap; 
+    width: 618px;
+    height: 618px;
+}
+
+.mole {
+    background-image: url('mole.png');
+    background-size: cover;
+}
+
